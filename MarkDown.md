@@ -1,5 +1,8 @@
 MarkDown 문법 예제
 =============
+
+/MarkDown 문법 예제  
+/=============  
 https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4
 
 예제1
@@ -9,7 +12,16 @@ https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4
 ### This is a H3
 #### This is a H4
 ##### This is a H5
- ###### This is a H6
+###### This is a H6  
+
+//예제1
+//-------------
+//# This is a H1  
+//## This is a H2  
+//### This is a H3  
+//#### This is a H4  
+//##### This is a H5  
+//###### This is a H6  
 
 예제2
 -------------
