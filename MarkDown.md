@@ -9,13 +9,10 @@ MarkDown 문법 예제
 
     MarkDown 문법 예제  
     ============= 
-  
-'''  
-123  
-'''  
 
-예제1
+# 예제1
 -------------
+
 # This is a H1
 ## This is a H2
 ### This is a H3
@@ -23,14 +20,15 @@ MarkDown 문법 예제
 ##### This is a H5
 ###### This is a H6  
 
-//예제1
-//-------------
-//# This is a H1  
-//## This is a H2  
-//### This is a H3  
-//#### This is a H4  
-//##### This is a H5  
-//###### This is a H6  
+    # 예제1
+    -------------
+
+    # This is a H1  
+    ## This is a H2  
+    ### This is a H3  
+    #### This is a H4  
+    ##### This is a H5  
+    ###### This is a H6  
 
 예제2
 -------------
