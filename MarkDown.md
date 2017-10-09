@@ -3,6 +3,7 @@ https://namu.wiki/w/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4 -WIKI
 https://stackedit.io/editor -exp  
 http://danielku.com/posts/2014-02-13-markdown/ -exp  
 https://gist.github.com/ihoneymon/652be052a0727ad59601 -exp  
+https://simhyejin.github.io/2016/06/30/Markdown-syntax/ -exp(codeblock)  
 http://pad.haroopress.com/user.html -Tool  
 
 MarkDown 문법 예제
@@ -10,6 +11,11 @@ MarkDown 문법 예제
 
     MarkDown 문법 예제  
     ============= 
+
+~~~
+MarkDown 문법 예제  
+============= 
+~~~
 
 # 예제1
 -------------
