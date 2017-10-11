@@ -1,7 +1,8 @@
 # repository 저장소 만들기  
 ![screensh](./img/5.PNG)  
-![screensh](./img/1.PNG)  
-![screensh](./img/1.PNG)  
-![screensh](./img/1.PNG)  
+![screensh](./img/6.PNG)  
+![screensh](./img/7.PNG)  
 
+
+# 기타 URL  
 http://hashcode.co.kr/questions/2277/github-git-bash%EB%A1%9C-%ED%8F%B4%EB%8D%94-%EC%98%AC%EB%A6%AC%EA%B8%B0 - 폴더 생성법
