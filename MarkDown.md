@@ -101,5 +101,6 @@ __double underscores__
 
 예제 8 - 이미지 삽입   
 --------------  
-    ![screensh](./img/1.PNG)  
+     코드![screensh](./img/1.PNG)  
+    
 ![screensh](./img/1.PNG)
