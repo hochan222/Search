@@ -45,17 +45,6 @@ MarkDown 문법 예제
     >> This is a second blockqute.
     >>> This is a third blockqute.
 
-1. 첫번째
-2. 두번째
-3. 세번째  
-
-1. 첫번째
-3. 세번째
-2. 두번째
-
-
-
-
 예제3
 -------------
 * 빨강
@@ -109,3 +98,8 @@ _single underscores_
 __double underscores__
 ++underline++
 ~~cancelline~~
+
+예제 8 - 이미지 삽입   
+--------------  
+    ![screensh](./img/1.PNG)  
+![screensh](./img/1.PNG)
