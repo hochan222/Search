@@ -98,22 +98,26 @@ Link: [Google][googlelink]
 *single asterisks*  
 
 
-     *single asterisks* 
-_single underscores_
+     *single asterisks*   
+
+_single underscores_  
 
 
-     _single underscores_
-**double asterisks**  
+     _single underscores_  
+     
+**double asterisks**    
 
-     **double asterisks**
+     **double asterisks**  
+     
 __double underscores__
 
      __double underscores__  
-++underline++  
+     
+++underline++    
 
-
-     ++underline++
-~~cancelline~~  
+     ++underline++  
+     
+~~cancelline~~    
 
      ~~cancelline~~
 
