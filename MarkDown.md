@@ -83,13 +83,11 @@ end code block.
 
 예제6
 -------------
-[link keyword][id]  
-[id]: URL "Optional Title here"  
 
-Link: [Google][googlelink]  
-[googlelink]: https://google.com "Go google"  
+[호찬이의 MarkDown 설명서](https://github.com/hochan222/Search/edit/master/MarkDown.md)  
 
-     [link keyword][id]     [id]: URL "Optional Title here"     Link: [Google][googlelink]     [googlelink]: https://google.com "Go google"
+     [호찬이의 MarkDown 설명서](https://github.com/hochan222/Search/edit/master/MarkDown.md)  
+     
 
 
 <http://example.com/>
