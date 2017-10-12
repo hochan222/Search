@@ -83,10 +83,10 @@ end code block.
 
 예제6
 -------------
-[link keyword][id]
-[id]: URL "Optional Title here"
+[link keyword][id]  
+[id]: URL "Optional Title here"  
 
-Link: [Google][googlelink]
+Link: [Google][googlelink]  
 [googlelink]: https://google.com "Go google"  
 
      [link keyword][id]     [id]: URL "Optional Title here"     Link: [Google][googlelink]     [googlelink]: https://google.com "Go google"
