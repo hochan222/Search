@@ -98,28 +98,28 @@ Link: [Google][googlelink]
 *single asterisks*  
 
 
-     *single asterisks*   
+     ㅁ*single asterisks*   
 
 _single underscores_  
 
 
-     _single underscores_  
+     ㅁ_single underscores_  
      
 **double asterisks**    
 
-     **double asterisks**  
+     ㅁ**double asterisks**  
      
 __double underscores__
 
-     __double underscores__  
+     ㅁ__double underscores__  
      
 ++underline++    
 
-     ++underline++  
+     ㅁ++underline++  
      
 ~~cancelline~~    
 
-     ~~cancelline~~
+     ㅁ~~cancelline~~
 
 예제 8 - 이미지 삽입   
 --------------  
