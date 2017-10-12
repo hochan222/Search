@@ -87,15 +87,15 @@ end code block.
 [id]: URL "Optional Title here"
 
 Link: [Google][googlelink]
-[googlelink]: https://google.com "Go google"
+[googlelink]: https://google.com "Go google"  
+
+     [link keyword][id]     [id]: URL "Optional Title here"     Link: [Google][googlelink]     [googlelink]: https://google.com "Go google"
+
 
 <http://example.com/>
 <address@example.com>  
 
-     [link keyword][id]
-     [id]: URL "Optional Title here"
-     Link: [Google][googlelink]
-     [googlelink]: https://google.com "Go google"
+
 
      <http://example.com/>
      <address@example.com>
