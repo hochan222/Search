@@ -95,31 +95,13 @@ Link: [Google][googlelink]
 
 예제7
 -------------
-*single asterisks*  
-
-
-     ㅁ*single asterisks*   
-
-_single underscores_  
-
-
-     ㅁ_single underscores_  
-     
-**double asterisks**    
-
-     ㅁ**double asterisks**  
-     
+*single asterisks* 
+_single underscores_
+**double asterisks**
 __double underscores__
+~~cancelline~~  
 
-     ㅁ__double underscores__  
-     
-++underline++    
-
-     ㅁ++underline++  
-     
-~~cancelline~~    
-
-     ㅁ~~cancelline~~
+![screensh](./img/6.PNG)  
 
 예제 8 - 이미지 삽입   
 --------------  
