@@ -101,7 +101,7 @@ _single underscores_
 __double underscores__
 ~~cancelline~~  
 
-![screensh](./img/6.PNG)  
+![screensh](./img/MarkDown_1.PNG) 
 
 예제 8 - 이미지 삽입   
 --------------  
