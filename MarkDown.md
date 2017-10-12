@@ -90,7 +90,15 @@ Link: [Google][googlelink]
 [googlelink]: https://google.com "Go google"
 
 <http://example.com/>
-<address@example.com>
+<address@example.com>  
+
+     [link keyword][id]
+     [id]: URL "Optional Title here"
+     Link: [Google][googlelink]
+     [googlelink]: https://google.com "Go google"
+
+     <http://example.com/>
+     <address@example.com>
 
 
 예제7
