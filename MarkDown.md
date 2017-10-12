@@ -95,12 +95,27 @@ Link: [Google][googlelink]
 
 예제7
 -------------
-*single asterisks*
+*single asterisks*  
+
+
+     *single asterisks* 
 _single underscores_
-**double asterisks**
+
+
+     _single underscores_
+**double asterisks**  
+
+     **double asterisks**
 __double underscores__
-++underline++
-~~cancelline~~
+
+     __double underscores__  
+++underline++  
+
+
+     ++underline++
+~~cancelline~~  
+
+     ~~cancelline~~
 
 예제 8 - 이미지 삽입   
 --------------  
@@ -108,3 +123,6 @@ __double underscores__
      ![screensh](./img/1.PNG            - 뒤에 )붙이면 됨
      
 ![screensh](./img/1.PNG)
+
+
+##### 가장 기초적인 예제만 다루었으며 나머지 MarkDown 문법은 Google에 검색해보세요
