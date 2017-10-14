@@ -6,7 +6,7 @@
 # pull_requests  
 
 ##### GitHub 에는 Pull requests 라는 협업 기능이 있습니다.   
-##### (Pull requests란?)[http://minsone.github.io/git/github-Pull-Request]  
+##### [Pull requests란?](http://minsone.github.io/git/github-Pull-Request)  
 
 ##### 위 URL에서 봤듯이 Pull requests 과정이란 자신의 repository에 상대방의 repository에 저장된 data를 복제해와서 수정하고 서로 코드를 보고 의견을 말한  뒤 반영 할지 안할지 정하는 과정입니다. 우리는 여러 기능들은 아직 필요없고 간략히 쓸 기능만 소개하겠습니다. 우선 ProHC 아이디로 설명해 보겠습니다.  
 
