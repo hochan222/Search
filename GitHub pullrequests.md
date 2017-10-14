@@ -8,7 +8,7 @@
 ##### GitHub 에는 Pull requests 라는 협업 기능이 있습니다.   
 ##### (Pull requests란?)[http://minsone.github.io/git/github-Pull-Request]  
 
-##### 위 URL에서 봤듯이 Pull requests 과정이란 자신의 repository에 상대방의 repository에 저장된 data를 복제해와서 수정하고 서로 코드를 보고 의견을 말한  뒤 반영 할지 안할지 정하는 과정입니다. 우리는 여러 기능들은 아직 필요없고 간략히 쓸 기능만 소개하겠습니다.   
+##### 위 URL에서 봤듯이 Pull requests 과정이란 자신의 repository에 상대방의 repository에 저장된 data를 복제해와서 수정하고 서로 코드를 보고 의견을 말한  뒤 반영 할지 안할지 정하는 과정입니다. 우리는 여러 기능들은 아직 필요없고 간략히 쓸 기능만 소개하겠습니다. 우선 ProHC 아이디로 설명해 보겠습니다.  
 
 ![screensh](./img/9.PNG)  
 
@@ -26,6 +26,10 @@
 ##### - 갈색 사각형 부분에서 앞에 파일 모양이 파일을 의미하며 파일명 뒤에 .md 가 문서파일을 의미하고 .md가 안붙어있으면 코드파일을 의미합니다.
 
 ![screensh](./img/9.PNG)  
+
+##### 다시 원래 페이지로 돌아와서 이번에는 Project_2_search_open_projects로 들어가 봅시다.
+
 ![screensh](./img/11.PNG)  
 
-##### 
+##### 위의 그림과 같이 hochan222/Project_2_search_open_projects 에서 ProHC/Project_2_search_open_projects로 바뀐 것을 볼 수 있습니다. 자신의 저장소에 그대로 복사해온 것입니다.
+##### 자신의 저장소로 옮겨와서 작업을 한 뒤에 다시 원래 저장소에 반영 시키는 것이 Pull requests 입니다.
