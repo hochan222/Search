@@ -1,4 +1,6 @@
-# repository 저장소 만들기  
+# repository 저장소 만들기 
+![screensh](./img/25.PNG)
+##### Start a project 클릭  
 ![screensh](./img/5.PNG)  
 
 ##### 1.Repository name : 자신이 만들 저장소의 이름을 적는 공간입니다.   
