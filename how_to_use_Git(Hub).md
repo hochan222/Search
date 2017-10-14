@@ -10,7 +10,8 @@
 
 ![screensh](./img/6.PNG)  
 
-##### Create new file : 문서 작성, 폴더 생성, 코드 생성을 할 수 있다.  
+##### 생성된 repository의 main page이다.
+##### Create new file : 문서 작성, 폴더 생성, 코드 생성을 할 수 있다.  
 ##### Upload files : 자신의 데이터를 GitHub 에 올릴 때 사용한다.  
 
 ### Create new file  
