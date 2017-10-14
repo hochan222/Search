@@ -1,6 +1,6 @@
 # repository 저장소 만들기
 
-##### 우선 사용할 간단한 기능만 설명하겟습니다.  
+##### 우선 사용할 간단한 기능만 설명하겠습니다.  
 ![screensh](./img/25.PNG)
 ##### Start a project 클릭  
 ![screensh](./img/5.PNG)  
