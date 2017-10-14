@@ -47,7 +47,7 @@
 ![screensh](./img/16.PNG) 
 ![screensh](./img/17.PNG)  
 ##### Create pull request 클릭    
-##### 파란색 네모안에 소스코드로 공통의 프로젝트에 있는 원래 소스와 반영시킬 자신의 소스를 비교해서 변경사항을 알려줍니다.  
+##### 파란색 사각형안의 소스코드는 공통의 프로젝트에 있는 원래 소스와 반영시킬 자신의 소스를 비교해서 변경사항을 알려줍니다.  
 ![screensh](./img/19.PNG)  
 ##### Create pull request 클릭  
 ![screensh](./img/20.PNG)
