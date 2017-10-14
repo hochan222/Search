@@ -32,4 +32,31 @@
 ![screensh](./img/11.PNG)  
 
 ##### 위의 그림과 같이 hochan222/Project_2_search_open_projects 에서 ProHC/Project_2_search_open_projects로 바뀐 것을 볼 수 있습니다. 자신의 저장소에 그대로 복사해온 것입니다.
-##### 자신의 저장소로 옮겨와서 작업을 한 뒤에 다시 원래 저장소에 반영 시키는 것이 Pull requests 입니다.
+##### 자신의 저장소로 옮겨와서 작업을 한 뒤에 다시 원래 저장소에 반영 시키는 것이 Pull requests 과정입니다.  
+##### Create new file을 눌러서 파일을 만들어 보겠습니다.
+
+![screensh](./img/12.PNG)  
+![screensh](./img/13.PNG) 
+##### Commit new file 클릭
+![screensh](./img/14.PNG)  
+##### text파일은 파일명 뒤에 .md를 붙입니다.  
+
+![screensh](./img/15.PNG)
+##### 이제 자신의 저장소에 수정된 소스를 최종 저장소인 공통의 저장소에 반영시키는 작업을 해봅시다.  
+##### Pull request 클릭  
+![screensh](./img/16.PNG) 
+![screensh](./img/17.PNG)  
+##### Create pull request 클릭    
+##### 파란색 네모안에 소스코드로 공통의 프로젝트에 있는 원래 소스와 반영시킬 자신의 소스를 비교해서 변경사항을 알려줍니다.  
+![screensh](./img/19.PNG)  
+##### Create pull request 클릭  
+![screensh](./img/20.PNG)
+##### 반영 요청을 보낸것을 확인 할 수 있으며 이 공간에서 의견도 나눌 수 있습니다.  
+![screensh](./img/21.PNG)
+##### 이렇게 반영 요청을 보내면 호찬이의 계정에 위 사진과같이 반영 요청이 들어오고 호찬이가 다음과 같은 과정으로 승인해서 공통의 저장소로 최종 반영시킵니다.  
+![screensh](./img/22.PNG)  
+![screensh](./img/23.PNG)  
+##### 호찬이가 최종 반영 시켰다는 알림을 볼 수 있습니다.
+![screensh](./img/18.PNG)  
+![screensh](./img/24.PNG)  
+##### 자신의 저장소에서 수정한 소스가 공통의 저장소로 최종 반영이 된것을 확인 할 수 있습니다.
