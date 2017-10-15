@@ -181,23 +181,6 @@ https://mmlab.snu.ac.kr/publications/docs/sensor_kics_yongsub.pdf  <br>
 >심화 <br>
 http://suma_maple.blog.me/221064089784
 
-News
-=============
--에너지 최적화 -
-
-[4차산업 생생현장]④ 인공지능으로 에너지 70% 절약...KT 에너지관제센터를 가다  <br>
-http://biz.chosun.com/site/data/html_dir/2017/01/05/2017010500355.html  <br>
-500달러 전기세 청구서에서 시작된 AI 스타트업의 에너지 절약 솔루션 개발 이야기<br>
-http://blogs.nvidia.co.kr/2017/07/10/ai-energy-conservation/<br>
-40년된 건물 센서 10만개 달아 에너지 사용 50% 줄여<br>
-http://biz.chosun.com/site/data/html_dir/2014/05/22/2014052203317.html<br>
-
--IT-
->IBM과 도코모, 1 차 산업에 AI를 활용한 새로운 IoT 솔루션 제공<br>
-http://m.seminartoday.net/news/articleView.html?idxno=10340<br>
->정부, 빅데이터산업 활성화…AI 등 2021년까지 112개 분야 개방<br>
-http://m.news.naver.com/read.nhn?mode=LSD&sid1=001&oid=003&aid=0008149206
-
 knowledge
 =============
 -markdown 사용법- <br>
