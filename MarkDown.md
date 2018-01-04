@@ -117,8 +117,7 @@ __double underscores__
 ![screensh](./img/1.PNG)
 
 
-##### 가장 기초적인 예제만 다루었으며 나머지 MarkDown 문법은 Google에 검색해보세요  
+##### 가장 기초적인 예제만 다루었으며 나머지 MarkDown 문법은 Google에 검색  
 
 - - -
-# 아직 업데이트 중입니다...
-
+https://guides.github.com/features/mastering-markdown/ - 2018.01.04 github 공식 가이드  
