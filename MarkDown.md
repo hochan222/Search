@@ -120,4 +120,5 @@ __double underscores__
 ##### 가장 기초적인 예제만 다루었으며 나머지 MarkDown 문법은 Google에 검색  
 
 - - -
-https://guides.github.com/features/mastering-markdown/ - 2018.01.04 github 공식 가이드  
+https://guides.github.com/features/mastering-markdown/ - 2018.01.04 github 공식 가이드  
+https://www.gitbook.com/book/snowdream86/github-cheat-sheet/details/ko - 치트시트  
