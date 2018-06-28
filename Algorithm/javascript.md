@@ -9,3 +9,8 @@ https://nolboo.kim/blog/2014/03/13/how-to-learn-javascript-properly/
 
 3. https://github.com/indongyoo/functional-javascript/wiki/3.1-Underscore.js-%EC%86%8C%EA%B0%9C -underscore.js  
 
+
+## setting  
+1.https://code.visualstudio.com/  
+2.View in Default Application  (c+s+p view in browser)  
+
