@@ -14,6 +14,8 @@ https://nolboo.kim/blog/2014/03/13/how-to-learn-javascript-properly/
 >http://harrythegreat.tistory.com/entry/%EC%96%B8%EB%8D%94%EC%8A%A4%EC%BD%94%EC%96%B4-%EC%A0%95%EB%A6%AC  
 >https://marpple.github.io/partial.js/#다른-함수형-라이브러리와-함께-사용하기 -partial.js  
 
+## style guide  
+https://github.com/tipjs/javascript-style-guide  -airbnb_kor  
 
 ## setting  
 1.https://code.visualstudio.com/  
